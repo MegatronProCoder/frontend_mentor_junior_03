@@ -181,6 +181,9 @@ header{
     .flow-conv-container{
         flex-direction: row;
     }
+    .container img{
+        max-width:40%;
+    }
 }
 /* **************************
 footer
